@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+    <item
+        android:id="@+id/home_menu"
+        android:title="Home"
+        android:icon="@drawable/baseline_home_24" />
+
+    <item
+        android:id="@+id/incone_menu"
+        android:title="Income"
+        android:icon="@drawable/income_image" />
+
+    <item android:title="Expense"
+        android:icon="@drawable/expenses_image"
+        android:id="@+id/expense_menu"/>
+
+    <item android:title="Chart"
+        android:icon="@drawable/baseline_pie_chart_24"
+        android:id="@+id/chart_menu"/>
+
+    <item android:title="Setting"
+        android:icon="@drawable/baseline_settings_24"
+        android:id="@+id/setting_menu"/>
+</menu>

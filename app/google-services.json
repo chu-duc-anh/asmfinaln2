@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "595573122909",
+    "project_id": "mygamedemo-9e8e3",
+    "storage_bucket": "mygamedemo-9e8e3.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:595573122909:android:0f8f0ec0910d0475b2aab4",
+        "android_client_info": {
+          "package_name": "com.example.mygamedemo"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCA5we5zAeMlj7FbEaGm9hwPqCD_5amlbY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
